@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Who wants to be a Millionaire</string>
+
+    <string name="splash">MILLIONAIRE</string>
+
+    <string name="score">Your Score:</string>
+    <string name="button">SUBMIT</string>
+
+    <string name="question1">1. Which of these is not a country in Africa?</string>
+    <string name="q1_option1">Saudi Arabia</string>
+    <string name="q1_option2">Cote D Ivoire</string>
+    <string name="q1_option3">Burkina Faso</string>
+    <string name="q1_option4">Botswana</string>
+
+    <string name="question2">2. What is the last name of the family depicted in the movie "The Sound of Music"?</string>
+    <string name="q2_option1">Von Furstenburg</string>
+    <string name="q2_option2">Von Plummer</string>
+    <string name="q2_option3">Von Trapp</string>
+    <string name="q2_option4">Von Vanderberg</string>
+
+    <string name="question3">3. Crazy Horse was a celebrated leader among what people?</string>
+    <string name="q3_option1">Native Americans</string>
+    <string name="q3_option2">Maoris</string>
+    <string name="q3_option3">Eskimos</string>
+    <string name="q3_option4">Vikings</string>
+
+    <string name="question4">4. The game of Mah-Jong originated in what country?</string>
+    <string name="q4_option1">China</string>
+    <string name="q4_option2">Japan</string>
+    <string name="q4_option3">England</string>
+    <string name="q4_option4">Russia</string>
+
+    <string name="question5">5. According to Lesley Gore hit song, "It's my party and I'll" what "if I want to"?</string>
+    <string name="q5_option1">Yell</string>
+    <string name="q5_option2">Kiss</string>
+    <string name="q5_option3">Dance</string>
+    <string name="q5_option4">Cry</string>
+
+    <string name="question6">6. What nationality is celebrated on St. Patrick Day?</string>
+    <string name="q6_option1">Mexican</string>
+    <string name="q6_option2">Irish</string>
+    <string name="q6_option3">American Indian</string>
+    <string name="q6_option4">Welsh</string>
+
+    <string name="question7">7. What chemical is added to the water in swimming pools?</string>
+    <string name="q7_option1">Ammonia</string>
+    <string name="q7_option2">Vinegar</string>
+    <string name="q7_option3">Chlorine</string>
+    <string name="q7_option4">Sulfur</string>
+
+    <string name="question8">8. The aircraft called the "Spruce Goose" was built by which American millionaire?</string>
+    <string name="q8_option1">Howard Hughes</string>
+    <string name="q8_option2"> William Randolph Hearst</string>
+    <string name="q8_option3">John D. Rockefeller</string>
+    <string name="q8_option4">David O. Selznick</string>
+
+    <string name="question9">9. Who wrote the novels that introduced the characters Hercule Poirot and Miss Jane Marple?</string>
+    <string name="q9_option1">Ruth Rendell</string>
+    <string name="q9_option2">Ellery Queen</string>
+    <string name="q9_option3">Agatha Christie</string>
+    <string name="q9_option4">H. G. Wells</string>
+
+    <string name="question10">10. What is the Italian word for a square or marketplace?</string>
+    <string name="q10_option1">Piazza</string>
+    <string name="q10_option2">Plaza</string>
+    <string name="q10_option3">Pisa</string>
+    <string name="q10_option4">Presto</string>
+
+    <string name="question11">11. Which team won the first two Super Bowls?</string>
+    <string name="q11_option1">Kansas City Chiefs</string>
+    <string name="q11_option2">Green Bay Packers</string>
+    <string name="q11_option3">Chicago Bears</string>
+    <string name="q11_option4">Minnesota Vikings</string>
+
+    <string name="question12">12. What is singer Diana Ross middle name?</string>
+    <string name="q12_option1">Josephine</string>
+    <string name="q12_option2">Ernestine</string>
+    <string name="q12_option3">Libertine</string>
+    <string name="q12_option4">Maybelline</string>
+
+    <string name="question13">13. What is the offspring of a male lion and a female tiger called?</string>
+    <string name="q13_option1">Ligron</string>
+    <string name="q13_option2">Tigon</string>
+    <string name="q13_option3">Liger</string>
+    <string name="q13_option4">Tiglon</string>
+
+    <string name="question14">14. Between which two planets are asteroids chiefly found?</string>
+    <string name="q14_option1">Jupiter and Saturn</string>
+    <string name="q14_option2">Mars and Jupiter</string>
+    <string name="q14_option3">Neptune and Pluto</string>
+    <string name="q14_option4">Saturn and Uranus</string>
+
+    <string name="question15">15. How many different combinations of dots are possible in Braille?</string>
+    <string name="q15_option1">87</string>
+    <string name="q15_option2">49</string>
+    <string name="q15_option3">63</string>
+    <string name="q15_option4">75</string>
+
+
+</resources>

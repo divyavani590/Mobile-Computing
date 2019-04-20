@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Card Quiz Game</string>
+    <string name="text_name">Welcome to my app</string>
+    <string name="splash">Quiz Game</string>
+    <string name="login">LOGIN</string>
+    <string name="register">Register</string>
+    <string name="homeImage">homeImage</string>
+    <string name="first">First Name</string>
+    <string name="last">Last Name</string>
+    <string name="dob">Date of Birth</string>
+    <string name="email">Email</string>
+    <string name="pswd">Password</string>
+
+    <string name="sub_header">Quiz Game</string>
+    <string name="question1">What is the capital of USA?</string>
+    <string name="question2">Which states are present in USA?</string>
+    <string name="correctans">Correct Answer</string>
+    <string name="wrongans">Wrong Answer</string>
+    <string name="checkbox_NC">North Carolina</string>
+    <string name="checkbox_Paris">Paris</string>
+    <string name="checkbox_NJ">New Jersey</string>
+    <string name="checkbox_India">India</string>
+    <string name="question3">Which instrument is used to measure temperature?</string>
+    <string name="north">Anemometer</string>
+    <string name="east">Thermometer</string>
+    <string name="south">Barometer</string>
+    <string name="west">Hygrometer</string>
+    <string name="question4">Core components of Android?</string>
+    <string name="Activity">Activity</string>
+    <string name="Intents">Intents</string>
+    <string name="Services">Services</string>
+    <string name="ContentProviders">Content Providers</string>
+    <string name="Fragments">Fragments</string>
+    <string name="question5">Divide 2 by 2</string>
+    <string name="question5_0">zero</string>
+    <string name="question5_1">one</string>
+    <string name="question5_2">two</string>
+    <string name="score">Total Score</string>
+    <string name="Submit">SUBMIT</string>
+
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GPA_vasarlad1_Calculator</string>
+    <string name="text_name">GPA Calculator for 5 Courses</string>
+    <string name="msg">Enter grades in Alphabets</string>
+</resources>

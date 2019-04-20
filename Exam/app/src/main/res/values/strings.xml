@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exam</string>
+    <string name="Total_Students">Total Number of Students</string>
+    <string name="A">A Group</string>
+    <string name="B">B Group</string>
+    <string name="C">C Group</string>
+    <string name="D">D Group</string>
+    <string name="F">F Group</string>
+    <string name="compute">Compute</string>
+</resources>

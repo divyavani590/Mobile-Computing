@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/toast_root_view"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/background_dark"
+        android:padding="16dp"
+        >
+
+        <TextView
+            android:id="@+id/toast_header"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="@android:color/primary_text_dark"
+            android:textSize="20dp"
+            tools:text="Hello This is a Message" />
+
+        <TextView
+            android:id="@+id/toast_body"
+            android:textColor="@android:color/primary_text_dark"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    </LinearLayout>
+
+    Toast toast = Toast.makeText(getApplicationContext(),
+    "This is a message displayed in a Toast",
+    Toast.LENGTH_SHORT);
+
+    toast.show();
+
+    LayoutInflater inflater = getLayoutInflater();
+
+    View toastLayout = inflater.inflate(R.layout.my_toast,
+    (ViewGroup) findViewById(R.id.toast_root_view));
+
+    TextView header = (TextView) toastLayout.findViewById(R.id.toast_header);
+    header.setText("Message for you:");
+
+    TextView body = (TextView) toastLayout.findViewById(R.id.toast_body);
+    body.setText("You have got mail!");
+
+    Toast toast = new Toast(getApplicationContext());
+    toast.setGravity(Gravity.CENTER, 0, 0);
+    toast.setDuration(Toast.LENGTH_LONG);
+    toast.setView(toastLayout);
+    toast.show();
+
+</android.support.constraint.ConstraintLayout>
